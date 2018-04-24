@@ -35,3 +35,6 @@ made my own db and tables.
 Inside the MySQL workbench you have the option to import data into the tables, which I did.
 
 I have a problem though with MySQL, it is unable to load authentication plugin "caching_sha2_password".
+
+## Run
+To run it, navigate to the Main class.
