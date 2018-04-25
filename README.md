@@ -39,3 +39,6 @@ This made it unable to connect from netbeans.
 
 ## Run
 First you have to import the data in neo4j and MySQL, then you run it by navigating to the Main Class.
+
+## Results
+I think I have done it right with the endorsements and the queries, but for some reason it gives the same results for each depth with the average and the median.
