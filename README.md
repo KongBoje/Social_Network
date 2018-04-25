@@ -35,6 +35,7 @@ made my own db and tables.
 Inside the MySQL workbench you have the option to import data into the tables, which I did.
 
 I have a problem though with MySQL, it is unable to load authentication plugin "caching_sha2_password".
+This made it unable to connect from netbeans.
 
 ## Run
-To run it, navigate to the Main class.
+First you have to import the data in neo4j and MySQL, then you run it by navigating to the Main Class.
